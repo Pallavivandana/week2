@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/divya/static/css/main.f96f07a4.css",
+    "main.js": "/divya/static/js/main.133ac4d0.js",
+    "static/js/592.e99ced42.chunk.js": "/divya/static/js/592.e99ced42.chunk.js",
+    "index.html": "/divya/index.html",
+    "main.f96f07a4.css.map": "/divya/static/css/main.f96f07a4.css.map",
+    "main.133ac4d0.js.map": "/divya/static/js/main.133ac4d0.js.map",
+    "592.e99ced42.chunk.js.map": "/divya/static/js/592.e99ced42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f96f07a4.css",
+    "static/js/main.133ac4d0.js"
+  ]
+}
